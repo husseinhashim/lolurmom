@@ -1,11 +1,13 @@
-<STYLE>
-body{
-background-color: #baBb1ff;
+ body{
+background-color: #baBb1f;
 }
 .blueBack{
 display: flex;
-background-color: #3434eb;
-align-items;
+background-color: dimgrey;
+
 
 }
-</STYLE>
+
+.flex-container {
+    display: flex;
+  }
